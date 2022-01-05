@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Modus Operandi
 
-You can use the [editor on GitHub](https://github.com/NakaiZemer/NakaiZemer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I strive to understand the business objectives and what the stakeholder is really needing versus what they are asking for. With the scientific method in mind, I go through all the steps necessary: establishing consistent data collection, preparing the data, and then transforming it into visually appealing and impactful intelligence. If I encounter something along the way that requires me to learn something new, that just makes the process more exciting for me. I’m driven to learn how to be the best data science professional that I’m capable of being.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fire Data Tech III (Business Intelligence Developer)
+### Cobb County Fire & Emergency Services
 
-```markdown
-Syntax highlighted code block
+### August 2018–Present
+- Manages ImageTrend Elite, a records management system for fire and EMS incident report collection, for a fire department with an average of 60,000 incidents a year.
+- Coordinates with upper management and stakeholders to determine departmental and public-safety data analysis needs.
+- Designs new fields and values within ImageTrend to facilitate data collection and analysis.
+- Builds custom datamarts in Microsoft SQL Server for more complex reporting needs.
+- Develops complex SQL queries involving joins between different server structures and architectures (MSSQL, Oracle, MariaDB), statistical aggregates, transformations, and integrated R code.
+- Creates and deploys operational and statistical reports (82 and counting) using SQL Server Reporting Solutions and Visual Studio.
+- Performs exploratory data analysis on various datasets to look for areas of improvement.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Independent IT Contractor
+### Various Organizations
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NakaiZemer/NakaiZemer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### February 2015–October 2017
+- Contracted with a managed services company supporting IT needs for a multi-branch pharmacy, a car dealership, and various industrial, civil engineering, and manufacturing companies.
+- Performed maintenance on mission critical servers for clients of the managed service company.
+- Responsible for website and webstore design, creation, marketing, analytics, and continuous maintenance for a CNC manufacturing start-up.
+- Designed graphics, technical documents, and instruction manuals for the CNC start-up.
