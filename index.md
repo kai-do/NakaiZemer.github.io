@@ -5,10 +5,10 @@ I strive to understand the business objectives and what the stakeholder is reall
 
 ## Work Experience
 
-### Fire Data Tech III (Business Intelligence Developer)
-### Cobb County Fire & Emergency Services
+**Fire Data Tech III (Business Intelligence Developer)**
+**Cobb County Fire & Emergency Services**
 
-### August 2018–Present
+**August 2018–Present**
 - Manages ImageTrend Elite, a records management system for fire and EMS incident report collection, for a fire department with an average of 60,000 incidents a year.
 - Coordinates with upper management and stakeholders to determine departmental and public-safety data analysis needs.
 - Designs new fields and values within ImageTrend to facilitate data collection and analysis.
@@ -18,10 +18,10 @@ I strive to understand the business objectives and what the stakeholder is reall
 - Performs exploratory data analysis on various datasets to look for areas of improvement.
 
 
-### Independent IT Contractor
-### Various Organizations
+**Independent IT Contractor**
+**Various Organizations**
 
-### February 2015–October 2017
+**February 2015–October 2017**
 - Contracted with a managed services company supporting IT needs for a multi-branch pharmacy, a car dealership, and various industrial, civil engineering, and manufacturing companies.
 - Performed maintenance on mission critical servers for clients of the managed service company.
 - Responsible for website and webstore design, creation, marketing, analytics, and continuous maintenance for a CNC manufacturing start-up.
