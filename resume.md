@@ -1,11 +1,27 @@
 ## Modus Operandi
 
+Why Modus Operandi?
+
+_Modus_, Latin for method, is the root word of _modulus_, meaning model. _Modulus_ is the diminutive form of _modus_, so a model is just a discrete part of a larger method. One _very_ large, overarching method is the collection of laws that define our physical universe. This _universal method_ contains the laws that define how everything we know exists and _operates_ and includes many, likely infinitely many, more methods and sets of methods such as how a butterfly knows how . 
+
+How do we understand these methods?
+
+
+
+Models are invisible representations of how a method works, 
+
+Mathematical models of phenomena
+
+An example of a very universal method 
+
+Interpretting many different types of models for a given method
+
 I strive to understand the business objectives and what the stakeholder is really needing versus what they are asking for. With the scientific method in mind, I go through all the steps necessary: establishing consistent data collection, preparing the data, and then transforming it into visually appealing and impactful intelligence. If I encounter something along the way that requires me to learn something new, that just makes the process more exciting for me. I’m driven to learn how to be the best data science professional that I’m capable of being.
 
 
 ## Work Experience
 
-**Fire Data Tech III (Business Intelligence Developer)**
+**Fire Data Tech III (Data Analyst)**
 **Cobb County Fire & Emergency Services**
 
 **August 2018–Present**
