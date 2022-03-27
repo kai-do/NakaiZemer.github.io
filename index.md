@@ -27,3 +27,30 @@ I strive to understand the business objectives and what the stakeholder is reall
 - Performed maintenance on mission critical servers for clients of the managed service company.
 - Responsible for website and webstore design, creation, marketing, analytics, and continuous maintenance for a CNC manufacturing start-up.
 - Designed graphics, technical documents, and instruction manuals for the CNC start-up.
+
+
+## Education
+
+**Associate of Applied Science in Cybersecurity**
+GPA: 3.95
+Chattachoochee Technical College 2018
+
+**Bachelor of Applied Science in Information Technology**
+Current GPA: 4.0 (Spring 2022)
+Kennesaw State University
+Expected Graduation 2024
+
+
+## Certifications
+
+**Data Science: R Basics**
+HarvardX 2021
+
+**Cybersecurity**
+Chattachoochee Technical College 2016
+
+**CISCO Network Specialist**
+Chattachoochee Technical College 2015
+
+**Cisco Certified Networking Associate**
+Cisco 2016–2019
