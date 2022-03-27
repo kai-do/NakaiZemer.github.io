@@ -6,6 +6,7 @@ I strive to understand the business objectives and what the stakeholder is reall
 ## Work Experience
 
 **Fire Data Tech III (Business Intelligence Developer)**
+
 **Cobb County Fire & Emergency Services**
 
 **August 2018–Present**
@@ -20,6 +21,7 @@ I strive to understand the business objectives and what the stakeholder is reall
 
 
 **Independent IT Contractor**
+
 **Various Organizations**
 
 **February 2015–October 2017**
