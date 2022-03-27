@@ -15,7 +15,8 @@ I strive to understand the business objectives and what the stakeholder is reall
 - Builds custom datamarts in Microsoft SQL Server for more complex reporting needs.
 - Develops complex SQL queries involving joins between different server structures and architectures (MSSQL, Oracle, MariaDB), statistical aggregates, transformations, and integrated R code.
 - Creates and deploys operational and statistical reports (82 and counting) using SQL Server Reporting Solutions and Visual Studio.
-- Performs exploratory data analysis on various datasets to look for areas of improvement.
+- Performs exploratory data analysis using T-SQL and R on various datasets to look for areas of improvement.
+- Runs analysis using R and RStudio.
 
 
 **Independent IT Contractor**
