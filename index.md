@@ -13,11 +13,12 @@ I strive to understand the business objectives and what the stakeholder is reall
 - Manages ImageTrend Elite, a records management system for fire and EMS incident report collection, for a fire department with an average of 60,000 incidents a year.
 - Coordinates with upper management and stakeholders to determine departmental and public-safety data analysis needs.
 - Designs new fields and values within ImageTrend to facilitate data collection and analysis.
+- Performs ETL as needed using T-SQL and R.
 - Builds custom datamarts in Microsoft SQL Server for more complex reporting needs.
 - Develops complex SQL queries involving joins between different server structures and architectures (MSSQL, Oracle, MariaDB), statistical aggregates, transformations, and integrated R code.
-- Creates and deploys operational and statistical reports (82 and counting) using SQL Server Reporting Solutions and Visual Studio.
+- Creates and deploys operational and statistical reports (83 and counting) using SQL Server Reporting Solutions and Visual Studio.
 - Performs exploratory data analysis using T-SQL and R on various datasets to look for areas of improvement.
-- Runs analysis using R and RStudio.
+- Runs more advanced analysis as needed using R and RStudio.
 
 
 **Independent IT Contractor**
@@ -27,8 +28,8 @@ I strive to understand the business objectives and what the stakeholder is reall
 **February 2015–October 2017**
 - Contracted with a managed services company supporting IT needs for a multi-branch pharmacy, a car dealership, and various industrial, civil engineering, and manufacturing companies.
 - Performed maintenance on mission critical servers for clients of the managed service company.
-- Responsible for website and webstore design, creation, marketing, analytics, and continuous maintenance for a CNC manufacturing start-up.
-- Designed graphics, technical documents, and instruction manuals for the CNC start-up.
+- Responsible for website and webstore design, creation, marketing, analytics, and continuous maintenance for a CNC manufacturing startup.
+- Designed graphics, technical documents, and instruction manuals for the CNC startup.
 
 
 ## Education
