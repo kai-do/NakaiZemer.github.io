@@ -1,8 +1,3 @@
-## Modus Operandi
-
-I strive to understand the business objectives and what the stakeholder is really needing versus what they are asking for. With the scientific method in mind, I go through all the steps necessary: establishing consistent data collection, preparing the data, and then transforming it into visually appealing and impactful intelligence. If I encounter something along the way that requires me to learn something new, that just makes the process more exciting for me. I’m driven to learn how to be the best data science professional that I’m capable of being.
-
-
 ## Work Experience
 
 **Fire Data Tech III (Business Intelligence Developer)**
