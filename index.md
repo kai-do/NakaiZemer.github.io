@@ -2,7 +2,7 @@
 [Traveling](travel.md)
 [Film Photography](film.md)
 
-## i do Work
+## i do work
 [My Resume](resume.md)
 
 # i do projects
