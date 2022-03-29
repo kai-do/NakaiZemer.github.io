@@ -34,7 +34,7 @@ GPA: 3.95
 Chattachoochee Technical College 2018
 
 **Bachelor of Applied Science in Information Technology** —
-Current GPA: 4.0 (Spring 2022)
+GPA: 4.0 (Spring 2022)
 Kennesaw State University
 Expected Graduation 2024
 
