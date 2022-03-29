@@ -29,11 +29,11 @@
 
 ## Education
 
-**Associate of Applied Science in Cybersecurity**
+**Associate of Applied Science in Cybersecurity** —
 GPA: 3.95
 Chattachoochee Technical College 2018
 
-**Bachelor of Applied Science in Information Technology**
+**Bachelor of Applied Science in Information Technology** —
 Current GPA: 4.0 (Spring 2022)
 Kennesaw State University
 Expected Graduation 2024
@@ -41,14 +41,14 @@ Expected Graduation 2024
 
 ## Certifications
 
-**Data Science: R Basics**
+**Data Science: R Basics** —
 HarvardX 2021
 
-**Cybersecurity**
+**Cybersecurity** —
 Chattachoochee Technical College 2016
 
-**CISCO Network Specialist**
+**CISCO Network Specialist** —
 Chattachoochee Technical College 2015
 
-**Cisco Certified Networking Associate**
+**Cisco Certified Networking Associate** —
 Cisco 2016–2019
