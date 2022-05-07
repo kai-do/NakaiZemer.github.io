@@ -9,5 +9,7 @@
 [interactive_time-series_visualization](https://kai-do.shinyapps.io/bookdown_testing/) <br/>
 Choose between Cobb County's fire department or climate stats and explore time-series visualizations and forecasting for their different variables. Powered by R and Shiny.
 
+[test link](test.nb.html) <br />
+
 ## i do have contact info
 [n@kai.do](mailto:n@kai.do)
