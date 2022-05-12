@@ -1,0 +1,78 @@
+---
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2020-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+library(igraph)
+library(networkD3)
+links <- data.frame(
+  from=c("http://localhost:4321/"),
+  to=c("https://google.com")
+)
+
+nodes <- data.frame(
+  name=c("http://localhost:4321/", "https://google.com"),
+  group=rep(1)
+)
+
+
+MyClickScript <- 'alert("You clicked " + d.name + " which is in row " +
+       (d.index + 1) +  " of your original R data frame");'
+
+p <- forceNetwork(Links = links, Nodes = nodes, Source = "from",
+             Target = "to", NodeID = "name",
+             Group = "group", opacity = 1, zoom = FALSE,
+             bounded = TRUE, clickAction = MyClickScript)
+```
+
+```{r}
+p
+
+```
+
+
+# R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
+
+```{r}
+summary(Orange)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   color = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(color = "none") +
+  theme_bw()
+```
