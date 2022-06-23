@@ -1,4 +1,5 @@
 baseURL: https://kai.do
+publishDir: /docs
 languageCode: en-us
 defaultContentLanguage: en-us
 title: kai.do
