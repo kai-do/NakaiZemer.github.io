@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on kai.do</title>
+    <link>https://kai.do/categories/blog/</link>
+    <description>Recent content in blog on kai.do</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kai.do/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What, Why, How, Who, kai.do?</title>
+      <link>https://kai.do/page/index.en-us/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kai.do/page/index.en-us/</guid>
+      <description>TLDR: kai.do is a blog covering technical data science topics (and more). It will evolve as I do&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
