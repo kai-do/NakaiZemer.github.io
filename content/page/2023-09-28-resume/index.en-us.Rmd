@@ -1,0 +1,99 @@
+---
+title: Resume
+author: Nakai Zemer
+date: '2023-09-28'
+output: pagedown::html_paged
+slug: resume
+categories:
+  - category
+  - subcategory
+keywords:
+  - tech
+comments: no
+showMeta: no
+showActions: no
+summary: "Resume"
+---
+
+# Nakai Zemer
+* Phone: 678.338.9253
+* Email: n@kai.do
+* Web: [kai.do](http://kai.do)
+
+## Summary
+I am a dedicated Full Stack Data Science Specialist, adept in leveraging R and SQL to enhance intelligent data collection, data engineering, and analysis. My expertise includes designing forms with complex validation logic, ensuring smart and compliant data gathering aligned with both business and regulatory standards. I excel in ETL tasks, skillfully consolidating isolated databases into user-friendly datamarts, thereby enhancing accessibility and utility for streamlined reporting processes. My proficiency extends to crafting detailed statistical reports, conducting thorough analyses, and deploying predictive statistical models. I also have experience in developing and analyzing mathematical models. My holistic approach to handling data and analysis highlights my dedication to enhancing operational efficiency and providing meaningful business insights.
+
+## Work Experience
+
+#### Cobb County Fire & Emergency Services 
+>   **Fire Data Analyst** (August 2022–Present) </br>
+>   **Fire Data Technician III** (August 2020–August 2022) </br>
+>   **Fire Data Technician II** (August 2019–August 2020) </br>
+>   **Fire Data Technician I** (August 2018–August 2019)
+>
+> * Manages ImageTrend Elite, a records management system for fire and EMS incident report collection, for a fire department with ~60,000 incidents a year.
+> * Coordinates with upper management and stakeholders to determine departmental and public-safety data analysis needs.
+> * Designs new fields and values within ImageTrend to facilitate data collection and analysis according to NEMSIS and NFIRS regulations. 
+> * Builds custom solutions using R, SQL, and Microsoft SQL Server to support data analysis and reporting needs.
+> * Develops complex SQL queries involving joins between different server architectures (Oracle, MariaDB, MSSQL), statistical aggregates, and transformations.
+> * Creates and deploys operational and statistical reports (82 and counting) using SQL Server Reporting Solutions, Visual Studio.
+> * Performs data analysis using SQL, R, and RStudio.
+> * Develops and deploys statistical models.
+> * Builds databases within SQL server.
+
+
+#### Various Organizations  
+> **Independent Information Technology Contractor** (February 2015–October 2017)
+> 
+> * Contracted with a managed services company supporting IT needs for a multi-branch pharmacy, a car dealership, and various industrial, civil engineering, and manufacturing companies.
+> * Performed maintenance on mission critical servers for clients of the managed service company.
+> * Responsible for website and webstore design, creation, and continuous maintenance for a CNC manufacturing start-up.
+> * Designed graphics, technical documents, and instruction manuals for the CNC start-up.
+
+## Education
+
+**Associate of Applied Science in Cybersecurity** </br>
+Chattahoochee Technical College, 2018 (GPA: 3.95) </br>
+
+**Bachelor of Science in Mathematics, Minor in Applied Statistics and Analytics** </br>
+Kennesaw State University, Expected Graduation 2024 (Current GPA: 4.0) </br>
+
+## Certifications
+* Data Science: R Basics, HarvardX, 2021
+* Cybersecurity, Chattahoochee Technical College, 2016
+* CISCO Network Specialist, Chattahoochee Technical College, 2015
+* CCNA, 2016-2019
+
+## Key Skills
+* Operational and statistical report development
+* Data analysis
+* Data cleaning and wrangling
+* Data mart development
+* Mathematical and statistical modeling
+
+## Software
+* Microsoft SQL Server
+* SQL Server Reporting Services
+* Excel
+* RStudio
+* ArcGIS Pro
+
+## Programming and Scripting Languages
+* R
+* SQL
+* HTML
+* CSS
+* Python
+* SAS
+* C++
+* Matlab
+
+## R Libraries
+* shiny
+* tidyverse
+* ggplot2
+* plotly
+* quarto
+* leaflet
+* xgboost
+
